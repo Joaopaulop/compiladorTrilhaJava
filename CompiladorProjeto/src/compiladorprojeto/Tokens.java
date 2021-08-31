@@ -1,0 +1,37 @@
+package compiladorprojeto;
+
+public enum Tokens {
+    
+      PUBLICO,
+      ESTATICO,
+      VAZIO,
+      PRINCIPAL,
+      STRING,
+      INT,
+      SE,
+      SENAO,
+      PARA,
+      FACA,
+      ENQUANTO,
+      IGUAL,
+      ASPAS,
+      LINHA,
+      ABREPAR,
+      FECHAPAR,
+      ABRECHA,
+      FECHACHA,
+      PONTOV,
+      SOMA,
+      SUB,
+      MULT,
+      DIV,
+      DADO,
+      OPLOG,
+      OPREL,
+      OPATRI,
+      OPINCR,
+      OPBOOL,
+      ID,
+      NUM,
+      ERROR    
+}
